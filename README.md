@@ -15,3 +15,9 @@ What are the three most important tools/strategies you use for organizing your w
 
 
 Hello I am Vai. I am an IE
+
+
+Michael Moore </br>
+it's about comuters, programming, and the base logic that makes computers work. </br>
+Take notes, ask questions, use the internet. </br>
+Use folders, color code, and keep things modular. </br>
