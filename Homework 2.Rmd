@@ -39,7 +39,12 @@ ggplot(data = canada, aes(x = lifeExp, y = gdpPercap)) +
 ```
 
 United States
-COPY YOUR CODE HERE
+```{r}
+data <- read.csv("gapminder-5060.csv")
+data<-data[(data$country=="United States"),]
+ggplot(data = data, aes(x = lifeExp, y = gdpPercap)) +
+  geom_point()
+```
 
 Australia
 COPY YOUR CODE HERE
